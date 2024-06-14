@@ -1,1 +1,1 @@
-Ahmet Ege Göksal - 22303723 - https://github.com/Ahmet-Ege-Goksal - Tetris
+Ahmet Ege Göksal - 22303723 - https://github.com/Ahmet-Ege-Goksal - Tetris - fatal: your current branch 'master' does not have any commits yet
